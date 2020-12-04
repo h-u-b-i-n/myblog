@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://47.100.6.105:3306/blog?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+#mybatis:
+#  type-aliases-package: com.hubin.entity   #设置别名
+#  mapper-locations: classpath:mapper/*.xml   #ָ指定myBatis的核心配置文件与Mapper映射文件
+logging:
+  level:
+    root: info
+    com.hubin: debug
+  file: log/blog-dev.log
+
+
+

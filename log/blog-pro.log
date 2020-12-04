@@ -1,0 +1,9 @@
+2020-12-01 21:14:27.311  INFO 15328 --- [restartedMain] com.hubin.MyblogApplication              : Starting MyblogApplication on LAPTOP-J9BSOQ9R with PID 15328 (started by 胡斌 in E:\idea最新代码路径\myblog)
+2020-12-01 21:14:27.314  INFO 15328 --- [restartedMain] com.hubin.MyblogApplication              : The following profiles are active: pro
+2020-12-01 21:14:31.657  WARN 15328 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'userRepository' and 'com.hubin.dao.UserRepository' mapperInterface. Bean already defined with the same name!
+2020-12-01 21:14:31.659  WARN 15328 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.hubin]' package. Please check your configuration.
+2020-12-01 21:15:07.117  INFO 15328 --- [restartedMain] com.hubin.MyblogApplication              : Started MyblogApplication in 41.373 seconds (JVM running for 46.533)
+2020-12-01 21:18:32.194  INFO 788 --- [restartedMain] com.hubin.MyblogApplication              : Starting MyblogApplication on LAPTOP-J9BSOQ9R with PID 788 (started by 胡斌 in E:\idea最新代码路径\myblog)
+2020-12-01 21:18:32.195  INFO 788 --- [restartedMain] com.hubin.MyblogApplication              : The following profiles are active: pro
+2020-12-01 21:18:35.206  WARN 788 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'userRepository' and 'com.hubin.dao.UserRepository' mapperInterface. Bean already defined with the same name!
+2020-12-01 21:18:35.208  WARN 788 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.hubin]' package. Please check your configuration.
